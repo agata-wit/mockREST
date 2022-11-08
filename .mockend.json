@@ -18,6 +18,9 @@
             "Loki",
             "Agata"
           ]
+        },
+        "posts":  {
+            "hasMany": "Post"
         }
     }
   }
