@@ -23,15 +23,4 @@
         "posts":  {
             "hasMany": "Post"
         }
-    },
-    "Nested": {
-      "rootObject": {
-        "sub-object": {
-            "works": true
-        }
-    },
-    "sub-object": {
-        "works": true
     }
-    }
-  }
